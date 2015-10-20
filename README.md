@@ -5,7 +5,7 @@ Udacity's course _Writing READMEs_ explains the importance of documenting your w
 ## Resources
 
 
-* [Choose A Licesne](http://choosealicense.com/) - Helpful website for picking out a license for your project.
+* [Choose A License](http://choosealicense.com/) - Helpful website for picking out a license for your project.
 
 ## Sample READMEs
 
