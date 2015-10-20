@@ -1,19 +1,38 @@
 # Writing READMEs README
 
-Course ud777, _Writing READMEs_, explains the importance of documenting your work. Here, you can find some supplemental resources for writing good READMEs.
-
-## Getting Started
-
-Check out [ud777](#) on Udacity.
+Udacity's course _Writing READMEs_ explains the importance of documenting your work. Here, you can find some supplemental resources for writing good READMEs.
 
 ## Resources
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+* [Choose A Licesne](http://choosealicense.com/) - Helpful website for picking out a license for your project.
+
+## Sample READMEs
+
+* [factory_girl](https://github.com/thoughtbot/factory_girl) - An open source project maintained by thoughtbot. Great example of simple instructions to get you set up, which then links to external documentation.
+* [can.viewify](https://github.com/zkat/can.viewify) - Awesome example of someone documenting her personal projects concisely.
+* [create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This README for Udacity's Git and Github course
 
 ## How to Contribute
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Find any tyypos? Have another resource you think should be included? Contributions are welcome!
+
+First, fork this repository.
+
+![Fork Icon](images/fork-icon.png)
+
+Next, clone this repository to your desktop to make changes.
+
+```sh
+$ git clone {YOUR_REPOSITORY_CLONE_URL}
+$ cd ud777-writing-readmes
+```
+
+Once you've pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
+
+![Pull Request Icon](images/pull-request-icon.png)
+
 
 ## License
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The contents of this repository are covered under the [MIT License](LICENSE).
