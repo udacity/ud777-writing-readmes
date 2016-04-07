@@ -16,7 +16,7 @@ Udacity's course _Writing READMEs_ explains the importance of documenting your w
 
 ## How to Contribute
 
-Find any tyypos? Have another resource you think should be included? Contributions are welcome!
+Find any typos? Have another resource you think should be included? Contributions are welcome!
 
 First, fork this repository.
 
