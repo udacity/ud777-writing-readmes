@@ -4,7 +4,6 @@ Udacity's course _Writing READMEs_ explains the importance of documenting your w
 
 ## Resources
 
-
 * [Choose A License](http://choosealicense.com/) - Helpful website for picking out a license for your project.
 * [Github flavored markdown reference](https://help.github.com/categories/writing-on-github/) - Github own documentation about documentation
 
@@ -34,6 +33,7 @@ Once you've pushed changes to your local repository, you can issue a pull reques
 
 ![Pull Request Icon](images/pull-request-icon.png)
 
+Instead of cloning the repository to your desktop, you can also go to `README.md` in your fork on GitHub.com, hit the Edit button (the button with the pencil) to edit the file in your browser, then hit the `Propose file change` button, and finally make a pull request. 
 
 ## License
 
