@@ -6,6 +6,7 @@ Udacity's course _Writing READMEs_ explains the importance of documenting your w
 
 
 * [Choose A License](http://choosealicense.com/) - Helpful website for picking out a license for your project.
+* [Github flavored markdown reference](https://help.github.com/categories/writing-on-github/) - Github own documentation about documentation
 
 ## Sample READMEs
 
@@ -16,7 +17,7 @@ Udacity's course _Writing READMEs_ explains the importance of documenting your w
 
 ## How to Contribute
 
-Find any tyypos? Have another resource you think should be included? Contributions are welcome!
+Find any typos? Have another resource you think should be included? Contributions are welcome!
 
 First, fork this repository.
 
