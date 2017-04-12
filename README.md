@@ -2,7 +2,7 @@
 
 Udacity's course _Writing READMEs_ explains the importance of documenting your work. Here, you can find some supplemental resources for writing good READMEs.
 
-## Resources
+## Few resources
 
 * [Choose A License](http://choosealicense.com/) - Helpful website for picking out a license for your project.
 * [Github flavored markdown reference](https://help.github.com/categories/writing-on-github/) - Github own documentation about documentation
