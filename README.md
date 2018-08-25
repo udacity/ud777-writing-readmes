@@ -35,6 +35,8 @@ Once you've pushed changes to your local repository, you can issue a pull reques
 
 Instead of cloning the repository to your desktop, you can also go to `README.md` in your fork on GitHub.com, hit the Edit button (the button with the pencil) to edit the file in your browser, then hit the `Propose file change` button, and finally make a pull request. 
 
+
+
 ## License
 
 The contents of this repository are covered under the [MIT License](LICENSE).
