@@ -2,6 +2,8 @@
 
 Udacity's course _Writing READMEs_ explains the importance of documenting your work. Here, you can find some supplemental resources for writing good READMEs.
 
+> This repository can be an opportunity for you to make your first open source contributions, so well don't waste it go ahead and click the fork button now and get started **Now**. 
+
 ## Resources
 
 * [Choose A License](http://choosealicense.com/) - Helpful website for picking out a license for your project.
