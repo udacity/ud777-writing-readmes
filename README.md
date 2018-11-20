@@ -13,6 +13,8 @@ Udacity's course _Writing READMEs_ explains the importance of documenting your w
 * [factory_girl](https://github.com/thoughtbot/factory_girl) - An open source project maintained by thoughtbot. Great example of simple instructions to get you set up, which then links to external documentation.
 * [can.viewify](https://github.com/zkat/can.viewify) - Awesome example of someone documenting her personal projects concisely.
 * [create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This README for Udacity's Git and Github course
+* [recipes](https://github.com/LarryMad/recipes) - An example of a concise yet sufficient README.
+* [asteroids](https://github.com/udacity/asteroids) - A space asteroids game made using JavaScript with a good README. 
 
 ## How to Contribute
 
