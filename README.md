@@ -29,9 +29,9 @@ $ git clone {YOUR_REPOSITORY_CLONE_URL}
 $ cd ud777-writing-readmes
 ```
 
-Once you've pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
+Once you've pushed changes to your local repository, you can issue a pull request by clicking on the *New pull request* button.
 
-![Pull Request Icon](images/pull-request-icon.png)
+![Pull Request Icon](images/pull_request_button.PNG)
 
 Instead of cloning the repository to your desktop, you can also go to `README.md` in your fork on GitHub.com, hit the Edit button (the button with the pencil) to edit the file in your browser, then hit the `Propose file change` button, and finally make a pull request. 
 
